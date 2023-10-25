@@ -1,6 +1,7 @@
 # Scraper-Installer
 
-![icon](https://github.com/paulazzo8711/Scraper-Installer/assets/70339585/d6432a08-f351-4b66-a3d9-b52ee6771952)
+![logodark](https://github.com/paulazzo8711/Scraper-Installer/assets/70339585/8bc0250d-a960-4b8c-86f0-9388e06ba56b)
+
 #### Note: This installer also automatically installs Python as an environment path for you and installs Visual C++ as a dependency.
 # User Manual: Web Scraping Tool
 
